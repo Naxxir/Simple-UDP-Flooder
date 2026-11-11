@@ -35,8 +35,8 @@ Lo script `udp_flooder.py` effettua le seguenti operazioni:
 
 1. **Clona il repository** o scarica il file:
    ```bash
-   git clone https://github.com/tuo-username/tuo-repository.git
-   cd tuo-repository
+   git clone https://github.com/Naxxir/Simple-UDP-Flooder.git
+   cd Simple-UDP-Flooder
    ```
 
 2. **Esegui lo script**:
